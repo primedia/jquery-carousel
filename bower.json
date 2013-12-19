@@ -1,0 +1,12 @@
+{
+  "name": "jquery-carousel",
+  "version": "0.2.9",
+  "main": "jquery-carousel.js",
+  "dependencies": {
+    "jquery": null
+  },
+  "ignore": [
+    "package.json",
+    "README.md"
+  ]
+}
