@@ -13,8 +13,7 @@
  *   http://billwscott.com/carousel/
  */
 
-define(['jquery'], function(){
-  (function($) {
+define(['jquery'], function($){
     // Default configuration properties.
     var defaults = {
       vertical: false,
@@ -1084,5 +1083,4 @@ define(['jquery'], function(){
       }
     };
 
-  })(jQuery);
 });
